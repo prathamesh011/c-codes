@@ -23,6 +23,7 @@ sum=num1+num2;
 sub=num3-num4;
 printf("addition is:%d",sum);
 printf("substraction is:%d",sub);
+  printf("multiplication is:%d",mul);
 getch();
 }
 
